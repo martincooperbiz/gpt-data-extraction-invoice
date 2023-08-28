@@ -1,0 +1,9 @@
+langchain==0.1.0  # Assuming langchain is a package you've developed
+pypdfium2==0.15.0
+pytesseract==0.3.8
+Pillow==8.4.0
+python-dotenv==0.19.1
+streamlit==0.90.0
+pdfium2==0.5.8  # Assuming pdfium2 is a dependency of pypdfium2
+requests==2.26.0
+pandas==1.3.3
